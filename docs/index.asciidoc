@@ -1,0 +1,5 @@
+= Rrdbeat Docs
+
+Welcome to the Rrdbeat documentation.
+
+

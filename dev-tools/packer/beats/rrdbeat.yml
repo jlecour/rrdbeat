@@ -1,0 +1,4 @@
+beat_name: rrdbeat
+beat_url: 'https://github.com/jlecour'
+beat_repo: 'github.com/jlecour'
+beat_description: Sends rrdbeat metrics to Logstash or directly to Elasticsearch.
