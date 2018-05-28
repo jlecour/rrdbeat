@@ -1,5 +1,7 @@
 # Rrdbeat
 
+**This is not a real living project. It was a spike, quickly abandoned. There won't be any support from its original author. It is probably completely out of sync with the current libbeat project.**
+
 Welcome to Rrdbeat.
 
 Ensure that this folder is at the following location:
